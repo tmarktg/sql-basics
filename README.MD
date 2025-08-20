@@ -242,4 +242,3 @@ ER diagram mapping
 4. Mapping of binary 1:N relationship types - include the 1 side’s primary key as a foreign key on the N side relation (table)
 
 5. Mapping of binary M:N relationship types - create a new relation table who’s primary key is a combination of both entities primary key’s. Also include any relationship attributes
-# sql-basics
